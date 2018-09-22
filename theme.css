@@ -1,0 +1,22 @@
+.content-card {
+  width: 100%;
+  padding: 10px;
+}
+
+/* .content-card__wrapper {
+  display: flex;
+  justify-content: space-around;
+
+} */
+
+/* font classes */
+
+.content-font {
+  font-family: 'PT Sans', sans-serif;
+}
+
+.title-font {
+  font-family: 'Dancing Script', cursive;
+}
+
+
